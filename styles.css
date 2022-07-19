@@ -147,6 +147,8 @@ header div {
 
 header nav a:first-child {
     margin-right: 64px;
+    font-weight: 700;
+    font-family: 'Epilogue';
 }
 
 header nav a {
