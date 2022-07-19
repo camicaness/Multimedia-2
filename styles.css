@@ -318,6 +318,7 @@ header+section h4 {
     grid-column-start: 1;
     grid-column-end: 8;
     padding-left: 80px;
+    padding-right: 24px;
 }
 
 #contacto div:nth-child(1) h2 {
