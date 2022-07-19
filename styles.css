@@ -182,7 +182,8 @@ header+section h4 {
     right: 0;
     width: 60vw;
     height: 100%;
-    background-color: blueviolet;
+    background-image: url(Recursos/hero.png);
+    background-size: cover;
     z-index: -1;
 }
 
